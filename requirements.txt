@@ -1,0 +1,7 @@
+numpy==1.24.3
+tensorflow==2.15.0
+kagglehub
+matplotlib
+seaborn
+scikit-learn
+pillow
